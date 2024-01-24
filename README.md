@@ -19,6 +19,8 @@ The discussion focused on the importance of key skills in the ICT field, emphasi
 As a student, this talk has motivated me to focus on honing essential skills like programming, creative thinking, and effective communication to prepare for a successful career in ICT.
 
 ## Assignment 3: Visit to UTM Digital and Virtual Talk🏢🔒
+## Youtube link: 
+https://youtu.be/oEZux86SdWQ?si=7nmIvbdwcJgGs_fj
 
 The visit to UTM Digital was an eye-opening learning experience that made me appreciate the institution's digital efforts. Witnessing the Digital Care Unit's meticulous approach to ensuring seamless digital experiences for students and staff emphasized the transformative role of technology in education. The TM room, in conjunction with Huawei's Idea Hub, demonstrated the power of collaborative technology, leaving an indelible mark on the significance of fostering productivity through digital tools.
 
