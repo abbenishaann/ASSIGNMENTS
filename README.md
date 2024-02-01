@@ -1,6 +1,6 @@
 ![Pink Blue Simple Colorful Coming Soon Twitter Header (1)](https://github.com/abbenishaann/ASSIGNMENTS/assets/148422005/e6e0002d-7017-48b4-b771-3b81d380c660)
 
-# 🌟 Reflecting on NALI 2023, Clarity Techworks, UTM Digital, and Credence Industrial Talk! 🌐💼
+# 🌟 Reflecting on NALI 2023, Clarity Techworks, UTM Digital, Credence Industrial Talk! and Design Thinking Report for eduTrack 🌐💼
 
 ## Assignment 1: NALI 2023 Expo✨🤖
 
@@ -35,6 +35,14 @@ As I embark on my journey to become a system developer, I find comfort in values
 Next, learning new languages, methodologies, and tools isn't just a challenge; it's an opportunity to enhance my work ethic and keep my skills sharp. Beyond the technical, I envision evolving into a problem solver. System development, with its challenges, demands creativity and persistence.
 
 I aspire to bring a solution-oriented mindset, navigating complexities with resourcefulness. In the next four years, I'll prioritize open communication, thrive in collaborative teamwork, expand my skill set, and evolve into a proficient problem solver. It's not just professional growth; it's a personal commitment to continuous improvement in the world of system development.
+
+## Assignment 5: Design Thinking Report (eduTrack) 💻✨
+
+Exploring design thinking in technology, particularly in database and data analytics, was eye-opening. The report delves into the challenges we face and why it's critical to devise solutions that truly resonate with users.
+
+Our project, eduTrack, embodies design thinking. We spoke with users, brainstormed ideas, and put them to the test. It's all about making student life easier. Each team member shared how we learned and adapted while remaining focused on the needs of our users.
+
+The design thinking checkpoints, such as interviews and testing, keep us on track. It demonstrates that we are making progress as a team. In a nutshell, eduTrack is the outcome of merging design thinking with education tech. It's not just a method; it's a practical approach. We're making education more user-friendly and relevant for everyone involved.
 
 
 
